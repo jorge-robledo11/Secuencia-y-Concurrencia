@@ -125,7 +125,3 @@ Las contribuciones son bienvenidas. Algunos aspectos que podrían mejorarse:
 - Implementar casos de uso reales
 - Mejorar la documentación
 - Agregar pruebas unitarias
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
