@@ -9,4 +9,4 @@ async def hola():
 
 # Ejecutar la coroutine desde el event loop
 result = asyncio.run(hola())
-print(result)  # → "¡Listo!"
+print(result)
